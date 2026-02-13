@@ -32,21 +32,31 @@ Hi! My name is Levell Kensey and I am currently pursuing a degree in Computer Sc
 
 I'm interested in both front-end and back-end development as a career. My dream company to work for is Pinterest, but ultimately, I will be happy with any company where I already use their app (such as SpotHero or Reddit). Right now, I'm focusing on building my skills both for the industry and for myself, because, at heart, what I love most about software engineering is being able to create helpful and creative applications! Contact me at any of my social links below, I'm always available!
 
-- [Email (School)](mailto:lkens@uic.edu)
-- [Email (Personal)](mailto:levellkensey06@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/levell-s-kensey/)
+<div>
+  <a href="mailto:lkens@uic.edu">
+    <img width="40" height="40" alt="14088027" src="https://github.com/user-attachments/assets/823b7dd6-d6d5-471a-8f4b-3e121c79a6d1" />
+  </a>
+  
+  <a href="mailto:levellkensey06@gmail.com">
+    <img width="40" height="40" alt="17384968" src="https://github.com/user-attachments/assets/a2747305-079c-4f55-bf7f-81cc17bf443e" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/levell-s-kensey/">
+    <img width="40" height="40" alt="2504923" src="https://github.com/user-attachments/assets/d6744524-89f4-4e23-b81c-b11c0ddde74b" />
+  </a>
+</div>
 
-  In the meantime, most what you'll see in my commits to GitHub for a while will be related to building my skills, especially frontendmentor which is great for building front end skills.
-  But, here are some projects I'm working on, and ones I'd like to implement in the future
+In the meantime, most what you'll see in my commits to GitHub for a while will be related to building my skills, especially frontendmentor which is great for building front end skills.
+But, here are some projects I'm working on, and ones I'd like to implement in the future
 
-  #### Current Projects
-  - Nothing to see here! Just learning, lol
+#### Current Projects
+- Nothing to see here! Just learning, lol
  
 
-  #### Future Project Ideas
-  - Gamified Daily Water Drinking App
-  - Personal Website
-  - Blog Site
+#### Future Project Ideas
+- Gamified Daily Water Drinking App
+- Personal Website
+- Blog Site
  
 In any case, thanks for visiting my profile!
 
