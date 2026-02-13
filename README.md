@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 Hi! My name is Levell Kensey and I am currently pursuing a degree in Computer Science at the University of Illinois-Chicago. Here are some of the skills I take pride in, and the ones I'm currently learning:
 
-##### Skills I'm Confident Of
+#### Skills I'm Confident Of
 - C++<img width="16" height="16" alt="6132222" src="https://github.com/user-attachments/assets/43f96804-a7a8-4125-ad3f-5b874a65cf29" />
 - C <img width="16" height="16" alt="3665923" src="https://github.com/user-attachments/assets/929a9f49-4627-4993-ba29-0f8c6b772318" />
 - Java <img width="16" height="16" alt="5968282" src="https://github.com/user-attachments/assets/86faf33e-d5e9-4baa-a6b8-b86b9df69ce2" />
 
   
-  ##### Skills I'm Learning / Working On
+#### Skills I'm Learning / Working On
 - Python (in class!) <img width="16" height="16" alt="5968350" src="https://github.com/user-attachments/assets/fd797c37-ac47-401f-a718-35348f12711b" />
 - SQL (in class!) <img width="16" height="16" alt="4248443" src="https://github.com/user-attachments/assets/a23f6a58-a979-434e-b7a2-2df271e18df0" />
 - F# (in class!) <img width="16" height="16" alt="3621789" src="https://github.com/user-attachments/assets/0c19bf04-b613-486c-ab17-a8b7207b16ac" />
@@ -34,4 +34,19 @@ I'm interested in both front-end and back-end development as a career. My dream 
 
 - [Email (School)](mailto:lkens@uic.edu)
 - [Email (Personal)](mailto:levellkensey06@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/levell-s-kensey/)
+
+  In the meantime, most what you'll see in my commits to GitHub for a while will be related to building my skills, especially frontendmentor which is great for building front end skills.
+  But, here are some projects I'm working on, and ones I'd like to implement in the future
+
+  #### Current Projects
+  - Nothing to see here! Just learning, lol
+ 
+
+  #### Future Project Ideas
+  - Gamified Daily Water Drinking App
+  - Personal Website
+  - Blog Site
+ 
+In any case, thanks for visiting my profile!
 
