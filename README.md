@@ -30,7 +30,7 @@ Hi! My name is Levell Kensey and I am currently pursuing a degree in Computer Sc
 - React.js + Vite (outside of class) <img width="16" height="16" alt="10832132" src="https://github.com/user-attachments/assets/8bc1b551-4af6-4ff9-ab7b-8c33c797bc54" />
 - HTML/CSS/JS (outside of class)<img width="16" height="16" alt="2085263" src="https://github.com/user-attachments/assets/9ecebc5f-2f7e-4529-9abb-3537a0de66e2" />
 
-I'm interested in both front-end and back-end development as a career. My dream company to work for is Pinterest, but ultimately, I will be happy with any company where I already use their app (such as SpotHero or Reddit). Right now, I'm focusing on building my skills both for the industry and for myself, because, at heart, what I love most about software engineering is being able to create helpful and creative applications! Contact me at any of my social links below, I'm always available!
+I'm interested in both front-end and back-end development as a career. My dream companies to work for are Pinterest and SpotHero, but of course, I am not picky. I also have an interest in CS education, hence why I am pursuing research in that field, with a co-author poster publication at SIGCSE TS '26 and a 1st author paper publication at ASEE '26. Right now, I'm focusing on building my skills both for the industry and for myself, because, at heart, what I love most about software engineering is being able to create helpful and creative applications! Contact me at any of my social links below, I'm always available!
 
 <div>
   <a href="mailto:lkens@uic.edu">
