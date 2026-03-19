@@ -15,22 +15,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi! My name is Levell Kensey and I am currently pursuing a degree in Computer Science at the University of Illinois-Chicago. Here are some of the skills I take pride in, and the ones I'm currently learning:
+Hi! My name is Levell Kensey and I am currently pursuing a degree in Computer Science at the University of Illinois-Chicago. I am currently looking for a summer internship in industry to receive professional experience while utilizing and improving my skills. Here are some of the skills I take pride in, and the ones I'm currently learning:
 
-#### Skills I'm Confident Of
+#### Programming Skills I'm Confident Of
 - C++<img width="16" height="16" alt="6132222" src="https://github.com/user-attachments/assets/43f96804-a7a8-4125-ad3f-5b874a65cf29" />
 - C <img width="16" height="16" alt="3665923" src="https://github.com/user-attachments/assets/929a9f49-4627-4993-ba29-0f8c6b772318" />
 - Java <img width="16" height="16" alt="5968282" src="https://github.com/user-attachments/assets/86faf33e-d5e9-4baa-a6b8-b86b9df69ce2" />
 
-  
-#### Skills I'm Learning / Working On
-- Python (in class!) <img width="16" height="16" alt="5968350" src="https://github.com/user-attachments/assets/fd797c37-ac47-401f-a718-35348f12711b" />
-- SQL (in class!) <img width="16" height="16" alt="4248443" src="https://github.com/user-attachments/assets/a23f6a58-a979-434e-b7a2-2df271e18df0" />
+#### Other Programming Skills I Have Learned
+- SQL, specifically SQLite (in class!) <img width="16" height="16" alt="4248443" src="https://github.com/user-attachments/assets/a23f6a58-a979-434e-b7a2-2df271e18df0" />
 - F# (in class!) <img width="16" height="16" alt="3621789" src="https://github.com/user-attachments/assets/0c19bf04-b613-486c-ab17-a8b7207b16ac" />
+  
+#### Programming Skills I'm Learning / Improving Upon
+- Python (in class!) <img width="16" height="16" alt="5968350" src="https://github.com/user-attachments/assets/fd797c37-ac47-401f-a718-35348f12711b" />
+- Go (in class!) <img width="20" height="20" alt="img icons8" src="https://github.com/user-attachments/assets/86bbaff3-5874-46dc-8c8e-57264554f49e" />
 - React.js + Vite (outside of class) <img width="16" height="16" alt="10832132" src="https://github.com/user-attachments/assets/8bc1b551-4af6-4ff9-ab7b-8c33c797bc54" />
-- HTML/CSS/JS (outside of class)<img width="16" height="16" alt="2085263" src="https://github.com/user-attachments/assets/9ecebc5f-2f7e-4529-9abb-3537a0de66e2" />
+- HTML/CSS/JS (outside of class)<img width="25" height="25" alt="2085263" src="https://github.com/user-attachments/assets/9ecebc5f-2f7e-4529-9abb-3537a0de66e2" />
 
-I'm interested in both front-end and back-end development as a career. My dream companies to work for are Pinterest and SpotHero, but of course, I am not picky. I also have an interest in CS education, hence why I am pursuing research in that field, with a co-author poster publication at SIGCSE TS '26 and a 1st author paper publication at ASEE '26. Right now, I'm focusing on building my skills both for the industry and for myself, because, at heart, what I love most about software engineering is being able to create helpful and creative applications! Contact me at any of my social links below, I'm always available!
+
+
+I'm interested in both front-end and back-end development as a career. My dream companies to work for are Pinterest and SpotHero, but of course, I am not picky. I also have an interest in CS education, hence why I am pursuing research in that field, with a co-author poster publication at SIGCSE TS '26 and a 1st author paper publication at ASEE '26. Right now, I'm focusing on building my skills both for the industry and for myself, because, at heart, what I love most about software engineering is being able to create helpful and creative applications! Contact me at any of my social links below, I'm always available! (The first two are my school and personal email).
 
 <div>
   <a href="mailto:lkens@uic.edu">
@@ -46,8 +50,8 @@ I'm interested in both front-end and back-end development as a career. My dream 
   </a>
 </div>
 
-In the meantime, most what you'll see in my commits to GitHub for a while will be related to building my skills, especially frontendmentor which is great for building front end skills.
-But, here are some projects I'm working on, and ones I'd like to implement in the future
+In the meantime, most of what you'll see in my commits to GitHub for a while will be related to building my skills, especially frontendmentor which is great for building front end skills.
+But, here are some projects I'm working on, and ones I'd like to implement in the future.
 
 #### Current Projects
 - Nothing to see here! Just learning, lol
